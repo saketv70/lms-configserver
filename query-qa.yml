@@ -1,7 +1,7 @@
 build:
   version: "2.0"
 
-accounts:
+query:
   message: "Welcome to SynergyBank accounts related QA APIs "
   contactDetails:
     name: "Smitha Ray - QA Lead"
