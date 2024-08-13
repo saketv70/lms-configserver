@@ -1,6 +1,3 @@
-build:
-  version: "3.0"
-
 query:
   message: "Welcome to LMS query related docker APIs "
   contactDetails:
